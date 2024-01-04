@@ -1,0 +1,68 @@
+body{
+    background-image: linear-gradient(to right,rgb(255, 255, 255),rgba(0, 85, 255, 0.781));
+
+}
+
+li{
+    display: inline-block;
+    padding: 17px;
+}
+nav
+{
+    background-color:;
+    ;
+}
+nav a{
+    color: black;
+    font-size:medium;
+    text-decoration: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#summary,#Skills,#References,#pix,#pic,#EducationalQ,#WorkExp,#Projects
+{
+    font-style: oblique;
+    color:rgba(174, 0, 255, 0.8);
+}
+#pix
+{
+    border-radius: none;
+}
+#pic
+{
+    border-radius: 50px;
+    padding: right 20px;
+}
+#info{
+    text-align: center;
+}
+.text{
+    color:rgba(0, 0, 0, 0.67);
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#copy{
+    color:aliceblue
+}
+.pro{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.ski{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.sha{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#WorkE{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.tab{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 25px;
+    text-align: left;
+    border-collapse: separate;
+}
+#sum{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px;
+
+}
